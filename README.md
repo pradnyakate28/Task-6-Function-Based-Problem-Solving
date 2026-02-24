@@ -1,7 +1,7 @@
 # Task-6-Function-Based-Problem-Solving
 This repository contains solutions for Task 6: Function-Based Problem Solving, implemented using Python in Google Colab. The assignment focuses on applying functions to solve real-world problem scenarios using structured and logical programming.
 
-The following problem statements are implemented:
+# The following problem statements are implemented:
 
 1.Smart Parking Lot Management System
 
@@ -15,7 +15,7 @@ The following problem statements are implemented:
 
 6.Online Event Registration Capacity Controller
 
-Each solution is written using appropriate:
+# Each solution is written using appropriate:
 
 1.Functions
 
@@ -25,7 +25,7 @@ Each solution is written using appropriate:
 
 4.Lists and Dictionaries
 
-Technologies Used
+# Technologies Used
 
 1.Python
 

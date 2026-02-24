@@ -1,26 +1,24 @@
 # Task-6-Function-Based-Problem-Solving
-This repository contains solutions for Assignment 6 implemented using Python functions in Google Colab.
+This repository contains solutions for Task 6: Function-Based Problem Solving, implemented using Python in Google Colab. The assignment focuses on applying functions to solve real-world problem scenarios using structured and logical programming.
 
-📌 Problems Covered:
+The following problem statements are implemented:
 
-Smart Parking Lot Management System
+1.Smart Parking Lot Management System
+2.Online Food Delivery Time Estimator
+3.Movie Theatre Seat Occupancy Analyzer
+4.Cloud Server Load Classification System
+5.Smart Classroom Resource Usage Monitor
+6.Online Event Registration Capacity Controller
 
-Online Food Delivery Time Estimator
+Each solution is written using appropriate:
 
-Movie Theatre Seat Occupancy Analyzer
+1.Functions
+2.Loops
+3.Conditional Statements
+4.Lists and Dictionaries
 
-Cloud Server Load Classification System
+Technologies Used
 
-Smart Classroom Resource Usage Monitor
-
-Online Event Registration Capacity Controller
-
-🛠 Concepts Used:
-
-Functions
-
-Loops
-
-Conditional Statements
-
-Lists and Dictionaries
+1.Python
+2.Google Colab
+3.GitHub
